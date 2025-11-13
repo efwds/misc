@@ -21,9 +21,6 @@ dns:
   - https://doh.pub/dns-query
   - https://dns.alidns.com/dns-query
   - https://dns.google/dns-query
-  proxy-server-nameserver:
-  - https://doh.pub/dns-query
-  - https://dns.alidns.com/dns-query
-  - tls://223.5.5.5
   direct-nameserver:
   - system
+  nameserver-policy:
